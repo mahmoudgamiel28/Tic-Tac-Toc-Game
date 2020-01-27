@@ -1,2 +1,5 @@
-# Tic-Tac-Toc-Game
-this is Tic Tac Toc or X O Game
+### Tic-Tac-Toc-Game
+Scratch Building
+No GUI
+by google colab notebook or jupyter noot book 
+you should install numpy 
